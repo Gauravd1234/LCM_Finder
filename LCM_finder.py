@@ -11,3 +11,5 @@ def LCM(num1, num2):
 
 
 #print(LCM(24, 13))
+#Should print out 312
+
